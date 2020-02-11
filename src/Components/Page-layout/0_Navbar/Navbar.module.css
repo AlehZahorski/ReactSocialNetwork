@@ -1,0 +1,27 @@
+.Navbar{
+    grid-area: navbar;
+    position: fixed;
+    width: 180px;
+    height: 400px;
+}
+.Navbar__left_menu__Ico{
+    width: 13px;
+    margin-right: 10px;
+    color: rgb(32, 29, 29);
+}
+.Navbar__left_menu{
+    font-size: 15px;
+    color: rgb(32, 29, 29);
+}
+
+.Navbar__NavLink{
+    text-decoration: none;
+}
+.Navbar__NavLink:visited{
+    text-decoration: none;
+    color: black;
+}
+.Navbar__NavLink:active{
+    text-decoration: none;
+    font-weight: bold;
+}

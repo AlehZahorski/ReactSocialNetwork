@@ -1,0 +1,29 @@
+.Add_post{
+    position: relative;;
+    width: 574px;
+    min-height: 190px;
+    max-height: 400px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 10px;
+    border: 1px solid rgb(207, 197, 197);
+    margin-top: 10px;
+}
+.Add_post__input{
+    width: 520px;
+    min-height: 120px;
+    max-height: 300px;
+    margin:  10px 27px;
+    border-radius: 10px;
+    outline: none;
+    resize: none;
+}
+.Add_post__add_file{
+    position: absolute;
+    right: 105px;
+}
+.Add_post__buton_add_mail{
+    position: absolute;
+    right: 25px;
+    border-radius: 5px;
+    outline: none;
+}

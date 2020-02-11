@@ -1,0 +1,18 @@
+.Dialogs{
+    position: relative;
+    width: 834px;
+    min-height: 100vh;
+    background-color: rgb(231, 228, 228);
+    border-radius: 10px;
+    border: 1px solid rgb(240, 229, 229);
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas: "users messages";
+}
+.Dialogs_item{
+    grid-area: users;
+}
+.Messages{
+    grid-area: messages;
+}
+

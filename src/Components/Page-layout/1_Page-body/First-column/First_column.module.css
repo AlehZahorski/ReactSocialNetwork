@@ -1,0 +1,5 @@
+.First_column{
+    grid-area: first_column;
+    position: fixed;
+
+}

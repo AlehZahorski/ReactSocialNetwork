@@ -1,0 +1,6 @@
+.Page_Body{
+    display: grid;
+    grid-template-columns: 250px 594px;
+    grid-template-areas: 'first_column second_column';
+    gap: 10px;
+}

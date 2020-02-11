@@ -1,0 +1,48 @@
+.Information{
+    width: 574px;
+    min-height: 380px;
+    background-color: rgb(231, 228, 228);
+    border-radius: 10px;
+    border: 1px solid rgb(207, 197, 197);
+    position: relative;
+}
+.Information_all{
+    margin-left: 15px;
+}
+.Information__name{
+    font-weight: bold;
+}
+.Information_all__status{
+    font-weight: 400;
+    margin-top: -20px;
+    opacity: 0.3;
+}
+.Information__grid{
+    display: grid;
+    grid-template-columns: 150px 400px;
+    grid-template-areas: "left right";
+    margin-top: 5px;
+}
+.Information__left{
+    grid-area: left;
+}
+.Information__right{
+    grid-area: right;
+}
+.Information__settings{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: grid;
+    grid-template-columns: 100px 40px;
+    grid-template-areas: "text ico";
+}
+.Information_settings__text{
+    grid-area: text;
+}
+.Information_settings__ico{
+    grid-area: ico;
+}
+.Information_settings__ico_size{
+    width: 25px;
+}

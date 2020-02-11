@@ -1,0 +1,23 @@
+.Profile{
+    width: 250px;
+    height: 335px;
+    border-radius: 10px;
+    background-color: rgb(231, 228, 228);
+    border: 1px solid rgb(207, 197, 197);
+}
+.Profile_photo{
+    width: 230px;
+    height: 250px;
+    margin: 10px 10px;
+    border: 1px solid rgb(207, 197, 197);
+    border-radius: 10px;
+}
+.Profile__Settings_photo{
+    text-align: center;
+    width: 230px;
+    height: 50px;
+    background-color: rgb(224, 213, 213);
+    border-radius: 10px;
+    margin: 0 10px;
+    outline: none;
+}

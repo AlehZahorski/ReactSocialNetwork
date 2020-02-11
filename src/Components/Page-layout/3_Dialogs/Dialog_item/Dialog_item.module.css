@@ -1,0 +1,14 @@
+.Dialog{
+    color: black;
+    height: 40px;
+    text-align: center;
+    border-right: 1px solid black;
+    margin: 10px 0;
+}
+.Dialog a{
+    text-decoration: none;
+}
+.Dialog a:active{
+    text-decoration: none;
+    color:white;
+}
