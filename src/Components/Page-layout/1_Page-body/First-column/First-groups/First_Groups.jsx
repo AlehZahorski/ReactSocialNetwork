@@ -14,7 +14,7 @@ return (
      <div className="All_Groups_flex">
        <a href="#"><div className={Style.Info_group_flex}>
          <div><img src={css} alt="group's name"/></div>
-         <div><p>CSS Viewer</p></div>
+         <div><p>CSS_Viewer</p></div>
        </div></a>
        <a href="#"><div className={Style.Info_group_flex}>
          <div><img src={python} alt="group's name"/></div>
