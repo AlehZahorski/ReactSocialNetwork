@@ -15,7 +15,7 @@ function Header() {
 <a href="/Page_Body"><img src={Logo}  alt="logo"/></a>
 </div>
 <div className={Style.App_header__item1}>
-  <textarea  placeholder="&#128269; поиск" className={Style.App_header__search}></textarea>
+  <textarea  placeholder="&#128269; search" className={Style.App_header__search}></textarea>
 </div>
 <div className={Style.App_header__item2}>
 <img src={Like} alt="Like"/>

@@ -9,8 +9,9 @@
     grid-template-columns: 200px 1fr;
     grid-template-areas: "users messages";
 }
-.Dialogs_item{
+.Dialogs_items{
     grid-area: users;
+    border-right: 1px solid black;
 }
 .Messages{
     grid-area: messages;

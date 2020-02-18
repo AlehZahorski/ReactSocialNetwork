@@ -6,12 +6,15 @@
     border: 1px solid rgb(207, 197, 197);
     margin-top: 10px;
 }
-.First_Groups p{
-    text-align: center;
-    font-size: 20px;
-    margin-bottom: 27px;
-}
 .First_Groups p:first-child{
-    text-align: left;
-    margin-left: 5px;
+    text-align: center;
+    
+}
+.Info_group_flex{
+    margin: 8px 8px;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+}
+.Info_group_flex p{
+    font-size: 15px;
 }

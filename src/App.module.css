@@ -4,7 +4,7 @@
     margin: 0 auto;
     width: 1024px;
     display: grid;
-    grid-template-columns: 180px 844px;
+    grid-template-columns: 180px 848px;
     grid-template-areas: 'navbar page_body';
     gap: 10px;
 }
