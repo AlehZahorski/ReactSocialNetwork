@@ -12,30 +12,30 @@ return (
 <div className={Style.First_Groups}>
    <p>Your groups:</p>
      <div className="All_Groups_flex">
-       <a href="#"><div className={Style.Info_group_flex}>
+       <div className={Style.Info_group_flex}>
          <div><img src={css} alt="group's name"/></div>
          <div><p>CSS_Viewer</p></div>
-       </div></a>
-       <a href="#"><div className={Style.Info_group_flex}>
+       </div>
+       <div className={Style.Info_group_flex}>
          <div><img src={python} alt="group's name"/></div>
          <div><p>Python school</p></div>
-       </div></a>
-       <a href="#"><div className={Style.Info_group_flex}>
+       </div>
+       <div className={Style.Info_group_flex}>
          <div><img src={java} alt="group's name"/></div>
          <div><p>java</p></div>
-       </div></a>
-       <a href="#"> <div className={Style.Info_group_flex}>
+       </div>
+        <div className={Style.Info_group_flex}>
          <div><img src={js} alt="group's name"/></div>
          <div><p>JavaScript Polska</p></div>
-       </div></a>
-       <a href="#"> <div className={Style.Info_group_flex}>
+       </div>
+        <div className={Style.Info_group_flex}>
          <div><img src={php} alt="group's name"/></div>
          <div><p>?echo PHP ?</p></div>
-       </div></a>
-       <a href="#"><div className={Style.Info_group_flex}>
+       </div>
+       <div className={Style.Info_group_flex}>
          <div><img src={english} alt="group's name"/></div>
          <div><p>english school</p></div>
-       </div></a>
+       </div>
      </div>
 </div>
 )

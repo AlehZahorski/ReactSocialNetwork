@@ -14,10 +14,10 @@ walls_posts: {
     },
 message_text: {
     user_id: [
-        {id:2, name: 'Grzegorz'},
-        {id:3, name: 'Andrzej'},
-        {id:4, name: 'Igor'},
-        {id:6, name: 'Daria'}
+        {id:2, name: 'Grzegorz Korczowski'},
+        {id:3, name: 'Andrzej Kowalski'},
+        {id:4, name: 'Igor Torunski'},
+        {id:6, name: 'Daria Lidowska'}
     ],
     user_messages: [
         {id:2, message: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'},
